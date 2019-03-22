@@ -4,4 +4,4 @@ const chunk = (arr, size) =>
     arr.slice(i * size, i * size + size)
   )
 
-chunk([1, 3, 5, 8], 2)
+chunk([1, 3, 5, 8], 2);
