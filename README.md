@@ -1,4 +1,4 @@
-# eslint-config-posva
+# eslint-config-tinychief
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/posva/eslint-config-posva.svg)](https://greenkeeper.io/) [![CircleCI](https://img.shields.io/circleci/project/github/posva/eslint-config-posva.svg)](https://circleci.com/gh/posva/eslint-config-posva) [![npm](https://img.shields.io/npm/v/eslint-config-posva.svg)](https://www.npmjs.com/package/eslint-config-posva)
 
@@ -7,7 +7,7 @@
 ## Usage
 
 ```bash
-npm i -D eslint-config-posva
+npm i -D eslint-config-tinychief
 ```
 
 Add it to your `.eslintrc.js` file:
@@ -15,7 +15,7 @@ Add it to your `.eslintrc.js` file:
 ```json
 {
   "extends": [
-    "posva"
+    "tinychief"
   ]
 }
 ```
