@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tinychief",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "⛑ eslint config",
   "main": "index.js",
   "scripts": {
