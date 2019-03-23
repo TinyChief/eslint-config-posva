@@ -15,7 +15,11 @@ module.exports = {
     'no-console': process.env.NODE_ENV === 'production' ? 1 : 0,
     'quote-props': ['error', 'as-needed'],
     'no-return-assign': 0,
-
+    'class-methods-use-this': ['error'],
+    curly: ['error', 'all'],
+    'dot-location': ['error', 'property'],
+    'dot-notation': ['error'],
+    // styles
     // vue
     'vue/require-v-for-key': 0,
 
